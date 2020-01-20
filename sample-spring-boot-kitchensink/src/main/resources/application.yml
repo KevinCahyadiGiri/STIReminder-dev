@@ -14,8 +14,8 @@
 # under the License.
 
 line.bot:
-  channel-token: '8zvHsFn73k/1oU8QGRg7eBPm/sxhQNql22N+3286ZpYZOdRNgKUYbvCHe73dUNzi+WdrjCuJWSHCynYl208Fbz1stG5vPsTZrE9Yujf9IvvAG8RPde9eULklESvaYpkAH728U7C6mIbNp8ISGTyENQdB04t89/1O/w1cDnyilFU='
-  channel-secret: '758a420f388dfd6ddd6c188881464573'
+  channel-token: 'GET YOUR CHANNEL ACCESS TOKEN'
+  channel-secret: 'GET YOUR CHANNEL SECRET'
   handler.path: /callback
 
 # To remove Client wire logs. Please comment out following lines.
